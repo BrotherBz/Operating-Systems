@@ -1,0 +1,5 @@
+Kernel – this application connects software to hardware.
+This kernel is the basic level of control of the hardware devices. 
+The kernel manages inventory for programs in the RAM. 
+The kernel sets up or resets the CPU operation for optimal operation for all the time.
+The kernel organizes data for long term non-volatile storage with the file system, disks, tapes, flash memory, and more. 
