@@ -3,3 +3,8 @@ This kernel is the basic level of control of the hardware devices.
 The kernel manages inventory for programs in the RAM. 
 The kernel sets up or resets the CPU operation for optimal operation for all the time.
 The kernel organizes data for long term non-volatile storage with the file system, disks, tapes, flash memory, and more. 
+
+User Interface – or UI is how data is entered to show the instructions or information is displayed.
+There are two types of UI, Graphic and Command-line.
+Graphic User Interface (GUI) – with this you interact with menus, visual images, and touch screens for phones and laptops, Smart phones use this kind of UI. 
+Command-Line Interface – Types of commands represent by keywords, abbreviations, or special keys to enter data and the instructions. 
